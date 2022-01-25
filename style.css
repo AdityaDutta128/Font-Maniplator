@@ -1,0 +1,35 @@
+body {
+    background-color: lightblue;
+}
+
+
+.heading {
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 5px 5px rgb(221, 15, 15);
+color:black;
+}
+
+.note {
+    font-size:15px;
+    color:rgb(246, 250, 248);
+    font-family: 'Cantarell', sans-serif;
+    font-weight:bolder;
+}
+
+.copy-right-footer {
+    position:fixed;
+    color:whitesmoke;
+    background-color:grey;
+    bottom:0;
+    width:100%;
+    line-height:50px;
+    text-align:center;
+}
+
+canvas {
+    border: 5px solid blue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px green;
+}
